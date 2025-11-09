@@ -4,5 +4,6 @@
 document.querySelector('button').classlist
 document.querySelector('button').classlist.add('invisible')
 document.querySelector('button').classlist.remove('invisible')
+document.querySelector('button').classlist.toggle('invisible')
 
 
